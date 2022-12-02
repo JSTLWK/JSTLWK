@@ -1,7 +1,7 @@
 ### Hi there, I'm Jasper aka [Hoopless][website] 👋
 
-## I'm a Student, Freetime Gamer and Developer!
-- 🥅 2021 Goals: Learn current UI/UX and working properly with figma.
+## I'm a Developer and Gamer!
+- 🥅 2023 Goals: Improve development workflow
 - 🌱 Learning something new every day! There are no limits.
 - 🏎 Fun fact: I am in love with Formula 1
 
