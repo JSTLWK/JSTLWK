@@ -1,7 +1,7 @@
 ### Hi there, I'm Jasper aka [JSTLWK][website] 👋
 
 ## I'm a Developer and Gamer!
-- 🥅 2023 Goals: Improve development workflow
+- 🥅 2024 Goals: Enjoy life
 - 🌱 Learning something new every day! There are no limits.
 - 🏎 Fun fact: I am in love with Formula 1
 
